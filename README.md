@@ -3,6 +3,10 @@
 Official release downloads for NASA Wallpaper.
 NASA Wallpaper is a desktop application that automatically finds and applies high-resolution space imagery from NASA's Image and Video Library as your wallpaper.
 
+## Preview
+
+![NASA Wallpaper Home Screen](images/nasa-wallpaper-home.png)
+
 ## Features
 
 - **Automatic daily wallpaper rotation**  
